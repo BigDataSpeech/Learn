@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "L'apprentissage automatique"
-date:   2017-12-28 11:38:36 +0100
+date:   2018-06-19
 categories: cours
 ---
 
