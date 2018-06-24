@@ -15,17 +15,14 @@ Voici le contenu :
 
 - [Collecte et traitement de corpus oraux](https://bigdataspeech.github.io/Corpus/)
 
-
 - [Analyses acoustiques ](https://bigdataspeech.github.io/Praat/)
-
 
 - [Paramètres acoustiques, reconnaissance et alignement automatiques ](https://bigdataspeech.github.io/Align/)
 
-
 - [Apprentissage automatique ](https://bigdataspeech.github.io/Learn/)
 
+- [Epistémologie](https://bigdataspeech.github.io/Epist/)
 
 - [Entités nommées](https://bigdataspeech.github.io/EN/)
-
 
 - [Activités "extra scolaires"](https://bigdataspeech.github.io/Sing/)
