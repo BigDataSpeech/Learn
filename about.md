@@ -9,7 +9,7 @@ Toutes les informations relatives à cette école d'été peuvent être trouvée
 
 Voici le contenu :
 
-- [Acceuil](https://bigdataspeech.github.io/Home/)
+- [Accueil](https://bigdataspeech.github.io/Home/)
 
 - [Phonétique des corpus](https://bigdataspeech.github.io/AudioBooks/)
 
